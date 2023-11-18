@@ -1,0 +1,14 @@
+.nav{
+    background-color:transparent;
+    padding: 10px 0px;
+    color:#ECF0F1 ;
+    position: absolute;
+    width: 100%;
+  }
+  .navactive{
+    background-color: #3498DB;
+
+  }
+
+ 
+ 
